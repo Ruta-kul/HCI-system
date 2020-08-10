@@ -8,4 +8,4 @@ An initial design of the system is built using the facial landmark points extrac
 are compared like Decision Trees, Random Forests, K—Nearest Neighbors and Neural Networks, using explicit and automated feature
 selection techniques. This project makes a small contribution in the independence of paralyzed people.
 
-![](/images/user_looking_at_grid.png)
+![](/images/facial_landmarks.png)
