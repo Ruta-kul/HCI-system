@@ -7,3 +7,5 @@ approaches in developing a human-computer interaction system for people who can 
 An initial design of the system is built using the facial landmark points extracted using Dlib and OpenCV. Different classifiers
 are compared like Decision Trees, Random Forests, K—Nearest Neighbors and Neural Networks, using explicit and automated feature
 selection techniques. This project makes a small contribution in the independence of paralyzed people.
+
+![alt text](https://github.com/Ruta-kul/HCI-system/images/user_looking_at_grid.png?raw=true)
