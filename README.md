@@ -8,4 +8,8 @@ An initial design of the system is built using the facial landmark points extrac
 are compared like Decision Trees, Random Forests, K—Nearest Neighbors and Neural Networks, using explicit and automated feature
 selection techniques. This project makes a small contribution in the independence of paralyzed people.
 
-![](/images/facial_landmarks.png)
+Facial landmarks are detected using Dlib as shown in the figure:
+
+<img src="images/facial_landmarks.png" width=400>
+
+<img src="images/system_flowchart.png" alt="System Flowchart" width=400>
