@@ -11,6 +11,7 @@ Facial landmarks are detected using Dlib as shown in the figure:
 <img src="images/facial_landmarks.png" width=400>
 
 The system works as follows:
+
 <img src="images/system_flowchart.png" alt="System Flowchart" width=350>
 
 After comparing different classifiers using manual features as well as autoencoders with automated features, 
