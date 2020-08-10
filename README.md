@@ -9,4 +9,4 @@ are compared like Decision Trees, Random Forests, K—Nearest Neighbors and Neur
 selection techniques. This project makes a small contribution in the independence of paralyzed people.
 
 ![Image of person looking at the grid]
-(https://github.com/Ruta-kul/HCI-system/blob/images/user_looking_at_grid.png?raw=true)
+(/images/user_looking_at_grid.png?raw=true)
